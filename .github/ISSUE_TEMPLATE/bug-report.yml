@@ -1,0 +1,18 @@
+name: Bug report / 错误反馈
+description: Report a reproducible product problem.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / 问题
+      description: Describe what happened and what you expected.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version and platform / 版本与平台
+    validations:
+      required: true
