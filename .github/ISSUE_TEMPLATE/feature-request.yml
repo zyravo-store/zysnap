@@ -1,12 +1,17 @@
 name: Feature request / 功能建议
-description: Suggest a product improvement.
+description: Suggest an improvement / 提交改进建议
 title: "[Feature] "
 labels: ["enhancement"]
 body:
   - type: textarea
-    id: request
+    id: need
     attributes:
-      label: Request / 建议
-      description: Explain the use case and desired result.
+      label: User need / 使用需求
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested solution / 建议方案
     validations:
       required: true

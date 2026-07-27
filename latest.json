@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "product": "ZySnap",
+  "version": "1.0.0",
+  "build": "260727",
+  "displayVersion": "Version 1.0.0 (260727)",
+  "tag": "v1.0.0",
+  "releaseTitle": "ZySnap 1.0.0 (260727)",
+  "website": "https://zysnap.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zysnap/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zysnap/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zysnap/releases/tag/v1.0.0",
+  "updates": {
+    "en": [
+      "Initial stable release of ZySnap."
+    ],
+    "zh-CN": [
+      "ZySnap 首个稳定版本。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Capture visible areas, selections, and full pages.",
+      "Extract text with OCR and annotate captured images.",
+      "Export screenshots in practical image formats across supported browsers."
+    ],
+    "zh-CN": [
+      "截取可见区域、选定区域和完整网页。",
+      "使用 OCR 提取文字并为截图添加标注。",
+      "在支持的浏览器中导出常用图片格式。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zysnap-chrome-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-chrome-1.0.0.zip"
+    },
+    "edge": {
+      "file": "zysnap-edge-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-edge-1.0.0.zip"
+    },
+    "firefox": {
+      "file": "zysnap-firefox-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-firefox-1.0.0.zip"
+    },
+    "windows": {
+      "file": "zysnap-windows-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-windows-1.0.0.zip"
+    },
+    "linux": {
+      "file": "zysnap-linux-1.0.0.tar.gz",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-linux-1.0.0.tar.gz"
+    },
+    "macos-pkg": {
+      "file": "zysnap-macos-1.0.0.pkg",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-macos-1.0.0.pkg"
+    },
+    "macos-dmg": {
+      "file": "zysnap-macos-1.0.0.dmg",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-macos-1.0.0.dmg"
+    },
+    "checksums": {
+      "file": "zysnap-1.0.0-sha256.txt",
+      "url": "https://github.com/zyravo-store/zysnap/releases/download/v1.0.0/zysnap-1.0.0-sha256.txt"
+    }
+  }
+}

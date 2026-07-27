@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: ZySnap Wiki / 使用文档
+    url: https://github.com/zyravo-store/zysnap/wiki
+    about: Read installation and troubleshooting guides.
   - name: Support / 技术支持
     url: mailto:support@zyravo.store
-    about: Contact support for account-independent product help.
+    about: Contact Zyravo support for private matters.
+  - name: Latest release / 最新版本
+    url: https://github.com/zyravo-store/zysnap/releases/latest
+    about: Download the latest supported packages.
